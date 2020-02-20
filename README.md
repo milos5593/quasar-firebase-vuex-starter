@@ -1,6 +1,6 @@
 # Quasar App (quasar-firebase-vuex-starter)
 
-A Quasar Framework app
+Make sure to enter your firebase credentials inside `quasar.config.js` file for app to work.
 
 ## Install the dependencies
 ```bash
